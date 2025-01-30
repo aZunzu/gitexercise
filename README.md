@@ -1,2 +1,2 @@
 # GitExercise
-An exercise for practicing with GitHub and IntelliJ 2
+An exercise for practicing with GitHub and IntelliJ 
